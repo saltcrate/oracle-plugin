@@ -1,0 +1,28 @@
+{
+  "name": "oracle",
+  "displayName": "SaltCrate Oracle",
+  "version": "1.1.6",
+  "description": "Live web search, schema-driven extraction, clean page fetch, link/change checking, recurring monitoring, claim verification and dependency freshness — as MCP tools. 200 calls/hour on the free tier with no API key.",
+  "author": {
+    "name": "SaltCrate",
+    "url": "https://saltcrate.com"
+  },
+  "homepage": "https://oracle.saltcrate.com/",
+  "repository": "https://github.com/saltcrate/oracle-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://saltcrate.com/privacy/",
+  "keywords": [
+    "mcp",
+    "web-search",
+    "extraction",
+    "monitoring",
+    "verification",
+    "pay-per-call"
+  ],
+  "mcpServers": {
+    "oracle": {
+      "type": "http",
+      "url": "https://oracle.saltcrate.com/mcp"
+    }
+  }
+}

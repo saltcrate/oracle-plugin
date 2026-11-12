@@ -1,0 +1,15 @@
+{
+  "name": "saltcrate",
+  "description": "SaltCrate plugins — pay-per-call web intelligence for AI agents.",
+  "owner": {
+    "name": "SaltCrate",
+    "url": "https://saltcrate.com"
+  },
+  "plugins": [
+    {
+      "name": "oracle",
+      "source": "./plugins/oracle",
+      "description": "Web intelligence for agents: search, extract, fetch, verify, monitor, check_deps, check_link, check_change. 200 calls/hour free with no API key, then $0.01/call (USDC) or a $1 card pass."
+    }
+  ]
+}
