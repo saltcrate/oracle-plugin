@@ -5,7 +5,7 @@ live web work: `search`, `extract`, `fetch`, `verify`, `monitor`, `check_change`
 `check_deps`.
 
 **Free tier: 100 calls, no API key, no signup.** When you exceed it, calls are $0.05 in USDC
-(Tempo) or you can buy a card pass at <https://oracle.saltcrate.com/buy> — $1 for 100 calls,
+(Tempo or x402 on Base) or you can buy a card pass at <https://oracle.saltcrate.com/buy> — $1 for 100 calls,
 $5 for 1,000. No subscription, no seat, no minimum.
 
 ## Install

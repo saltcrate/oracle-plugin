@@ -33,8 +33,8 @@ whenever the answer depends on what a page says *right now*.
 
 ## Quota and cost
 
-- **Free tier:** 200 calls/hour per IP, no key, no signup. All tools except `extract`.
-- **Paid:** $0.01/call in USDC via Tempo; card passes at
+- **Free tier:** 100 calls per IP (30 days), no key, no signup. All tools except `extract`.
+- **Paid:** $0.05/call in USDC via Tempo (or $1.00 card on `extract`/`monitor`); card passes at
   https://oracle.saltcrate.com/buy ($1 / 100 calls, $5 / 1,000 calls).
 - If you hit a payment challenge, stop and tell the user what it would cost rather than
   retrying in a loop.

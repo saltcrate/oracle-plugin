@@ -2,7 +2,7 @@
   "name": "oracle",
   "displayName": "SaltCrate Oracle",
   "version": "1.1.6",
-  "description": "Live web search, schema-driven extraction, clean page fetch, link/change checking, recurring monitoring, claim verification and dependency freshness — as MCP tools. 200 calls/hour on the free tier with no API key.",
+  "description": "Live web search, schema-driven extraction, clean page fetch, link/change checking, recurring monitoring, claim verification and dependency freshness — as MCP tools. 100 free calls per IP, then $0.05/call in USDC.",
   "author": {
     "name": "SaltCrate",
     "url": "https://saltcrate.com"

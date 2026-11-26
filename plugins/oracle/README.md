@@ -6,8 +6,8 @@ live web capabilities: `search`, `extract`, `fetch`, `verify`, `monitor`, `check
 which tells the model when to reach for each tool.
 
 **Setup: none.** The server runs at `https://oracle.saltcrate.com/mcp` and the free tier allows
-200 calls per hour per IP with no API key and no signup. `extract` is paid-only ($0.01/call in
-USDC, or a card pass at <https://oracle.saltcrate.com/buy> — $1 for 100 calls, $5 for 1,000).
+100 calls per IP (30 days) with no API key and no signup. `extract` is paid-only ($0.05/call in
+USDC, or $1.00 on a card, or a prepaid pass at <https://oracle.saltcrate.com/buy> — $1 for 100 calls, $5 for 1,000).
 
 Install in one step (Claude Code 2.1.275+):
 
